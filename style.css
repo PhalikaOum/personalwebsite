@@ -1,0 +1,32 @@
+
+body {
+	background-color: #147a5f;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1{
+	border-top: 2px #054232;
+	font-family: verdana, ariel;
+	font-size: 10pt;
+	color: #0c4737
+}
+h2{
+	border-top: 2px
+}
+
+#picture {
+	float: right;
+	margin: 0;
+}
+
+#name {
+	color: #03281e;
+	font-family: sans-serif, verdana, arial;
+	font-size: 45pt;
+	font-weight: bolder;
+	border-bottom: 2px solid #054232;
+}
+
+#biography {
+	background-color: #1a4f41;
+	font-size: 15px;
+}
