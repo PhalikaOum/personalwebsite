@@ -1,3 +1,17 @@
 body{
-  
+  font-size: 10pt;
+  color: white;
+}
+#interests{
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+  color: white;
+}
+html{
+background: url(band.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }

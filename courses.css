@@ -1,0 +1,18 @@
+body{
+  font-family: sans-serif;
+}
+#courses{
+  font-size: 30pt;
+  text-align: center;
+  text-align: center;
+}
+#classes{
+  font-size: 15pt;
+}
+html{
+  background: url(courses.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

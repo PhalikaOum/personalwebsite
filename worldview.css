@@ -1,3 +1,16 @@
 body{
-  
+
+}
+#worldview{
+  font-size: 25pt;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+html {
+  background: url(road.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

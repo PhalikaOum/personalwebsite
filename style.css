@@ -1,32 +1,29 @@
 
 body {
-	background-color: #147a5f;
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: sans-serif;;
+}
+#name{
+	text-align: center;
+	font-size: 30pt;
+	font-weight:bold;
+}
+#biography{
+text-align: center;
+font-size: 15pt;
+}
+#picture{
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+html {
+  background: url(pexels-photo.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 h1{
-	border-top: 2px #054232;
-	font-family: verdana, ariel;
+	text-align:center;
 	font-size: 10pt;
-	color: #0c4737
-}
-h2{
-	border-top: 2px
-}
-
-#picture {
-	float: right;
-	margin: 0;
-}
-
-#name {
-	color: #03281e;
-	font-family: sans-serif, verdana, arial;
-	font-size: 45pt;
-	font-weight: bolder;
-	border-bottom: 2px solid #054232;
-}
-
-#biography {
-	background-color: #1a4f41;
-	font-size: 15px;
 }
