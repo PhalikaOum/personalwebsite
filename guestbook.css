@@ -1,0 +1,17 @@
+legend{
+  font-size: 30pt;
+}
+.input-longer{
+  width: 345px;
+}
+.input-wider{
+  width: 345px;
+  height: 250px;
+}
+html{
+background: url(cute.gif) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
